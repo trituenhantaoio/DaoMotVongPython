@@ -1,31 +1,34 @@
-# A Whirlwind Tour of Python
+# Dạo Một Vòng Python
 
 *Jake VanderPlas, Summer 2016*
 
-This repository contains the Jupyter Notebooks behind my O'Reilly report,
+*Dịch bởi [trituenhantao.io](https://trituenhantao.io)*
+
+Repository này chứa các tài nguyên của cuốn sách,
 [*A Whirlwind Tour of Python*](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) (free [100-page pdf](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)).
 
-*A Whirlwind Tour of Python* is a fast-paced introduction to essential
-components of the Python language for researchers and developers who are
-already familiar with programming in another language.
+Bản dịch: [*Dạo Một Vòng Python*](https://github.com/trituenhantaoio/DaoMotVongPython/releases/download/ebook/Dao-Mot-Vong-Python-A-Whirlwind-Tour-Of-Python_trituenhantao.io.pdf)
 
-The material is particularly aimed at those who wish to use Python for data 
-science and/or scientific programming, and in this capacity serves as an
-introduction to
-[*The Python Data Science Handbook*](http://shop.oreilly.com/product/0636920034919.do) (also
-with notebooks [on github](https://github.com/jakevdp/PythonDataScienceHandbook)).
-These materials are adapted from courses and workshops I've given on these
-topics at University of Washington and at various conferences, meetings, and
-workshops around the world.
+*Dạo Một Vòng Python* là cuốn sách giới thiệu nhanh về các thành phần thiết yếu 
+của ngôn ngữ Python dành cho các nhà nghiên cứu và nhà phát triển, 
+những người đã quen với việc lập trình bằng một ngôn ngữ khác.
 
-This material was written and tested using **Python 3.5**, and should work for any Python 3.X
-version. I have done my best to note places where the syntax of Python 2.X will differ.
+Tài liệu này đặc biệt nhắm đến những người muốn sử dụng Python cho khoa học dữ liệu 
+hoặc lập trình khoa học, và trong ngữ cảnh này, nó được dùng như một lời giới thiệu tới
+([*The Python Data Science Handbook*](http://shop.oreilly.com/product/0636920034919.do) và các tài nguyên trên [github](https://github.com/jakevdp/PythonDataScienceHandbook)).
 
-## Index
+Tài liệu này được điều chỉnh từ các khóa học và hội thảo mà tác giả đã thuyết trình tại Đại học Washington 
+và các hội nghị khác nhau trên khắp thế giới.
 
-*(Note: sometimes GitHub's notebook rendering can be slow or finicky.
-If you're having trouble with the following links, try viewing the material
-[on nbviewer](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb))*
+Tài liệu này được viết và thử nghiệm bằng ** Python 3.5 ** và sẽ hoạt động với mọi phiên bản Python 3.X. 
+Tác giả đã cố gắng hết sức để lưu ý những điểm khác biệt trên cú pháp của Python 2.X.
+
+
+## Mục lục
+
+*(Lưu ý: đôi khi việc kết xuất notebook của GitHub có thể có trục trặc. 
+Nếu bạn gặp sự cố với các liên kết dưới đây hãy xem tài liệu
+[trên nbviewer](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb))*
 
 [Notebook Index](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb)
 
@@ -49,15 +52,15 @@ If you're having trouble with the following links, try viewing the material
 18. [Appendix: Code To Reproduce Figures](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/17-Figures.ipynb)
 
 
-## License and Citation
+## Giấy phép và trích dẫn
 
-This material is released under the "No Rights Reserved" [CC0](LICENSE)
-license, and thus you are free to re-use, modify, build-on, and enhance
-this material for any purpose.
-Read more about CC0 [here](https://creativecommons.org/share-your-work/public-domain/cc0/).
+Tài liệu gốc bằng tiếng anh được phát hành theo giấy phép [CC0](LICENSE),
+do đó bạn có thể tự do sử dụng lại, sửa đổi, xây dựng và nâng cao
+tài liệu này cho bất kỳ mục đích nào.
+Đọc về CC0 [tại đây](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
-If you do use this material, I would appreciate attribution.
-An attribution usually includes the title, author, publisher, and ISBN.
-For example:
-
+Bạn có thể trích dẫn tài liệu gốc theo thông tin dưới đây:
 > A Whirlwind Tour of Python by Jake VanderPlas (O’Reilly). Copyright 2016 O’Reilly Media, Inc., 978-1-491-96465-1.
+
+Trituenhantao.io giữ bản quyền bản dịch tiếng Việt Dạo Một Vòng Python của cuốn sách.
+> Dạo Một Vòng Python, Tác giả Jake VanderPlas, Dịch bởi trituenhantao.io.
